@@ -1,5 +1,5 @@
-cpp-arm64-baremetal-playground
-==============================
+cpp-arm64-u-boot-baremetal-playground
+=====================================
 
 From https://github.com/dirkarnez/qemu-cortex-a7-baremetal
 
